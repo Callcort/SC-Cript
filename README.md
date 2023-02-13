@@ -1,2 +1,2 @@
 # SC-Cript
-Crypt and decrypt .txt sotf
+Crypt and decrypt .txt soft
